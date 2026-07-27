@@ -133,7 +133,7 @@ Interactive dashboard featuring:
 - Screen Time Analysis
 - Sleep Analysis
 
-![Power BI Dashboard](./IMAGES/power bi dashboard.png)
+![Power BI Dashboard](./IMAGES/powerbi-dashboard.png)
 
 ---
 
@@ -161,7 +161,7 @@ Interactive dashboard including:
 - Screen Time Trends
 - Addiction Distribution
 
-![Tableau Dashboard](IMAGES/tableau dashboard.png)
+![Tableau Dashboard](IMAGES/tableau-dashboard.png)
 
 ---
 
