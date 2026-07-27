@@ -147,7 +147,7 @@ Dashboard focusing on:
 - Age Analysis
 - Social Media Usage
 
-![Excel Dashboard](IMAGES/excel dashboard.png)
+![Excel Dashboard](IMAGES/excel-dashboard.png)
 
 ---
 
